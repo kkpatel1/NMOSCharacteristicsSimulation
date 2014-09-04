@@ -1,7 +1,7 @@
-NMOSCharacteristicsSimulation
+NMOS Characteristics Simulation
 =============================
 
-MATLAB Simulation of variation of Depletion Width of MOS when MOS is insantly switched on
+MATLAB Simulation of variation of Depletion Width, Inversion Charge and Depletion Charge of MOS when it is instantly switched on
 
 An NMOS capacitor's gate voltage has been switched instantaneously at t=0 from a voltage V<sub>g</sub> < V<sub>th</sub> to a voltage larger than V<sub>th</sub>. We need to find time in which the inversion charge reaches 98% of its steady state value.
 
